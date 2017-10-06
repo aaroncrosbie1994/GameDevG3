@@ -1,0 +1,31 @@
+[
+	{
+	"id" : 0,
+	"title" : "Diamond",
+	"value" : 5,
+	"stats":{
+		"defence": 9,
+		"power" : 8,
+		"weight" : 5
+		},
+	"description": "Mined Diamond is stronger than metal",
+	"stackable" : true,
+	"rarity" : 10,
+	"slug": "diamond"
+	},
+
+	{
+	"id" : 1,
+	"title" : "Iron",
+	"value" : 2,
+	"stats":{
+		"defence" : 5,
+		"power" : 6,
+		"weight" : 7
+	},
+	"description" : "Mined Iron is stronger than bronze",
+	"stackable" : true,
+	"rarity" : 6,
+	"slug" : "Metal"
+	}
+]
